@@ -23,33 +23,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (AI Fundraising Agents)
 
-- **[Fundraisly](https://fundraisly.com/)**  
-  AI-powered fundraising agent that finds relevant investors, crafts personalized pitches, and books meetings autonomously.
-
-- **[Lyncbuild](https://lyncbuild.com/)**  
-  Intelligent investor matching and outreach platform with strong AI personalization and pipeline management.
-
-- **[ConsultFlow AI](https://consultflow.ai/)**  
-  AI agent specialized in startup fundraising, investor research, and automated meeting scheduling.
-
-- **[DcernX](https://dcernx.com/)**  
-  Advanced AI fundraising assistant focused on high-quality investor discovery and warm introductions.
-
-- **[Finta](https://finta.ai/)**  
-  AI platform that automates investor targeting, messaging, and follow-ups for founders.
-
-- **[Raizer](https://raizer.ai/)**  
-  Autonomous AI agent for end-to-end fundraising workflows and investor engagement.
-
-- **[Evalyze.ai](https://evalyze.ai/)**  
-  Investor evaluation and outreach AI that helps founders identify and connect with the right funds.
-
-- **[Flowlie](https://flowlie.com/)**  
-  Smart AI fundraising copilot with strong focus on personalized sequences and meeting booking.
+| Platform | Pricing (Starts At) | Free Tier / Trial Limit | Key Features |
+| :--- | :--- | :--- | :--- |
+| **[Evalyze.ai](https://evalyze.ai/)** | $10/mo (billed annually) | **Free Forever**: 3 Startup Analyses, 30 Investor Matches | AI deck analysis, investor matching, readiness score. |
+| **[Finta](https://finta.ai/)** | $20/seat/mo (annually) | **Free Package**: 1 Deal Room, 25 CRM Contacts | AI-powered CRM, deal rooms, automated targeting. |
+| **[Raizer](https://raizer.ai/)** | $33/mo (billed $99/3mo) | **Basic Plan**: Limited Database Access (No CC required) | Autonomous agent for discovery and engagement. |
+| **[Flowlie](https://flowlie.com/)** | $49/mo | **Day 0 Free**: 1 User, Runway & Funding Tools | Fundraising intelligence, network mapping. |
+| **[Fundraisly](https://fundraisly.com/)** | $19/mo | **Free Trial**: 200 Credits (No CC required) | Finds investors, crafts pitches, books meetings. |
+| **[Lyncbuild](https://lyncbuild.com/)** | TBD (Paid plans coming) | **Early Access**: All core features free for members | Intelligent matching and outreach management. |
+| **[ConsultFlow AI](https://consultflow.ai/)** | Custom / Project-based | **Freemium**: Limited triage/outreach | AI agent for investor research and scheduling. |
+| **[DcernX](https://dcernx.com/)** | Contact Sales | **Freemium**: Initial profile & search access | VC operating system for high-quality discovery. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: DealFlow, PitchBook AI features, and various custom agent platforms.
+| Platform | Pricing (Starts At) | Free Tier / Trial Limit | Key Features |
+| :--- | :--- | :--- | :--- |
+| **[PitchBook AI](https://pitchbook.com/)** | ~$12,000/year | No Free Tier (Enterprise only) | Institutional-grade data and AI Navigator. |
+| **[Fundwave Dealflow](https://fundwave.com/)** | $50/mo | No Free Tier (Seed starts at $50/mo) | VC deal flow management and AI workflows. |
+| **DealFlow AI** | $245/mo | No Free Tier | Advanced CRM for high-volume deal management. |
+
 
 ## Open-Source GitHub Projects
 
