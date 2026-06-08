@@ -118,3 +118,7 @@ We welcome contributions! Help us keep this list the #1 resource for **AI Fundra
 
 **Made with ❤️ for founders and startup operators.**  
 *Raising capital smarter, faster, and more controllable.*
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for AI agents. Verify agent identity before API access or x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
