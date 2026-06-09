@@ -1,13 +1,19 @@
 # 🚀 Awesome Fundraising AI Agent 🤖
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Fundraising-AI-Agents.svg?style=social)](https://github.com/ishandutta2007/Awesome-Fundraising-AI-Agents/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Fundraising-AI-Agents.svg?style=social)](https://github.com/ishandutta2007/Awesome-Fundraising-AI-Agents/network/members)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > **The ultimate curated list of SaaS products and Open-Source projects building the future of AI Fundraising Agents.**  
 > *Boost your capital raising with AI-powered Investor Discovery, Outreach, and Meeting Booking.*
 
+</div>
 ---
 
 ## 🌟 Overview
